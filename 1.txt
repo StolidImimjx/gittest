@@ -1,2 +1,2 @@
 Git test.
-This is 1.txt YES.
+This is 1.txt.
